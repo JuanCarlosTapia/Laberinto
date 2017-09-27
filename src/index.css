@@ -1,0 +1,67 @@
+@import url(https://fonts.googleapis.com/css?family=Lato:400,900);
+
+body {
+  font-family: 'Lato', sans-serif;
+  padding: 20px;
+}
+h1 {
+  font-weight: 900;
+  font-size: 60px;
+}
+
+.paredVer {
+  width: 20px;
+  height: 20px;
+  background: red;
+  position:relative;
+  float:left
+}
+.paredHor {
+  width: 20px;
+  height: 20px;
+  background: red;
+  position:relative;
+  float:left
+}
+
+.jugador
+{
+  width: 20px;
+  height: 20px;
+  background: black;
+  position:relative;
+  float:left
+}
+
+.espacio {
+  width: 20px;
+  height: 20px;
+  background: blue;
+  position:relative;
+  float:left
+}
+
+.esquina {
+  width: 20px;
+  height: 20px;
+  background: red;
+  
+  position:relative;
+  float:left
+}
+
+.objetivo {
+  width: 20px;
+  height: 20px;
+  background: green;
+  position:relative;
+  float:left
+
+}
+
+.fila {
+  height: 20px;
+  width: 1240;
+  position:relative;
+
+}
